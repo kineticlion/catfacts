@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.fact-wrapper {
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 5vw;
+  padding: 0 20vw;
+}
+
+#fact-image {
+  width: 20vw;
+}
+
+#fact-title {
+  margin: 0 auto;
+}
+
+#fact-details {
+  font-size: 2.5vw;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#fact::before {
+  content: open-quote;
+}
+
+#fact::after {
+  content: close-quote;
+}
+
+#author {
+  font-size: 2.5vw;
+  text-align: right;
+}
