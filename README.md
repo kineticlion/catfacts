@@ -1,7 +1,7 @@
 # Catfacts :cat:
 - A simple vanilla javascript cat fact generator.
 
-![Alt Text](https://giphy.com/gifs/jTAduTh2g3NfdQDKPp)
+![Alt Text](https://media.giphy.com/media/jTAduTh2g3NfdQDKPp/giphy.gif)
 
 # Idea :bulb:
 - To create a javascript app which clears your curiosity about cats.
